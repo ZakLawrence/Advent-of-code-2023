@@ -6,4 +6,5 @@ This is my first time using Rust, and intend to use this as a learning experienc
 | Day | Part 1 | Part 2 | Solved |
 | --- | ------ | ------ |  ----- |
 | 1   | [Link](day1/part1.rs) | [Link](day1/part2.rs) | Yes |
-| 2   | [Link](day2/part1.rs) | [Link](day2/part2.rs) | No  |
+| 2   | [Link](day2/part1.rs) | [Link](day2/part2.rs) | Yes |
+| 3   | [Link](day3/part1.rs) | [Link](day3/part2.rs) | No |
